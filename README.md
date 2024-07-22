@@ -7,3 +7,12 @@ You can also test the API's and their functionality using Postman or any other t
 
 
 Database table used for this setup was simple Employee table with two columns employeeId - primary key , name
+
+One thing to keep in mind is to update the fields inside application.properties file under resources accordingly -
+* Database name
+* user name
+* password
+
+Lastly Check out the dependencies used in the pom.xml and follow up...
+
+Wish you Good Luck with your Project💖!
